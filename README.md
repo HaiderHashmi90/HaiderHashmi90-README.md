@@ -1,7 +1,7 @@
 # Hi, I'm Haider Masood Hashmi 👋
 1st year Cybersecurity student | Python & C++ | Interested in offensive security and ethical hacking
 ## About Me
-I'm a first-year Cybersecurity student interested in offensive security, modren soution for cyber attacks and ethical hacking. 
+I'm a first-year Cybersecurity student interested in offensive security, ethical hacking and for finding modren soution for cyber attacks. 
 I enjoy learning Python and C++.
 I enjoy using AI and Cybersecurity tools.
 - 🌱 Currently learning: Penetration testing, Python scripting, AI in cybersecurity.
